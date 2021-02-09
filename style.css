@@ -1,0 +1,26 @@
+
+        *{
+background-color :rgb(245, 134, 7)
+        }
+        h1{
+            color :rgb(255, 255, 255);
+            font:100;
+        }
+        
+        .CRICKET{
+            border : solid;
+            border-color :rgb(49, 173, 44);
+            border-width: 1ch;
+            display : flex;
+            justify-content : space-evenly
+        }
+        .ABOUT {
+            color  : rgb(0, 81, 255);
+            border : solid;
+            border-color : rgb(0,255,157);
+            border-width : 0.7ch;
+            display : flex;
+            justify-content : space-evenly;
+            
+        }
+        
